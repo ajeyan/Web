@@ -1,0 +1,19 @@
+.div1{
+    margin: 150px auto;
+    width: 50%;
+    padding: 15px;
+    
+}
+img{
+    float: left;
+    width: 350px;
+    height: 350px;
+    padding: 20px ;
+    margin-top:21px;
+    
+}
+.div2{
+	padding:5px;
+	color:white;
+	background:green;
+}
